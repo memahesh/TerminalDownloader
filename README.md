@@ -1,13 +1,14 @@
 # TerminalDownloader
 Download images, videos, pdfs etc., (any form of files) , links, text etc., from your Linux/Unix terminal.
+
 The file **terminalDownloader.sh** can be a great starter for your custom script.
 
 The folder **DarkKnightDownloader** is an example of the file structure formed by running terminalDownloader.sh
 
 # Project Structure
 
-*[Project Name](DarkKnightDownloader)*
- - *[Downloads Folder](downloads)*
+*Project Name(DarkKnightDownloader)*
+ - *Downloads Folder(downloads)*
    - Downloaded Files....
  - *webpage.html(index.html)*
  - *matches.txt(customRegex.txt)*
